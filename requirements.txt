@@ -6,7 +6,7 @@ seaborn
 joblib
 #xgboost
 #lightgbm
-#tensorflow
+tensorflow
 #torch
 fastapi
 uvicorn
